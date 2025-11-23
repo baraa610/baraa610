@@ -31,6 +31,15 @@ I have successfully led organizations through full-scale system implementations,
 
 ---
 
+## 🚀 Key Skills & Achievements
+- **Strategic Leadership:** Developing and executing IT strategies that support business growth and innovation.
+- **Team Management:** Leading high-performance IT teams with a collaborative and empowering culture.
+- **Project Delivery:** Successfully delivering complex IT projects on time and within budget.
+- **Technology Expertise:** Advanced knowledge of IT infrastructure, emerging technologies, and cloud solutions.
+- **Cost Optimization:** Maximizing value from IT investments through efficient budget and resource management.
+  
+---
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baraa610&show_icons=true&theme=radical)
 

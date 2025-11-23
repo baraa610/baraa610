@@ -27,7 +27,7 @@ I have successfully led organizations through full-scale system implementations,
 
 ## 🚀 Featured Projects
 - **[Baraa610](https://github.com/baraa610/baraa610)** – Personal IT & ERP portfolio project demonstrating IT leadership and digital transformation solutions.
-- **[Bonus Management System](https://github.com/baraa610/bonus_management_system)** – Complete bonus management system with workflow automation, reporting, and employee management features.
+- **[Bonus Management System](https://github.com/baraa610/)** – Complete bonus management system with workflow automation, reporting, and employee management features.
 
 ---
 

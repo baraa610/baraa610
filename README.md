@@ -7,7 +7,7 @@
 </p>
 
 ## 💼 About Me
-With over **19 years of experience** in IT leadership, ERP project management, and digital transformation, I specialize in aligning cutting-edge technology with business strategy to drive operational excellence and growth. I am an expert in **Odoo ERP, Microsoft Dynamics AX, and IT infrastructure management**.
+With over **20 years of experience** in IT leadership, ERP project management, and digital transformation, I specialize in aligning cutting-edge technology with business strategy to drive operational excellence and growth. I am an expert in **Odoo ERP, Microsoft Dynamics AX, and IT infrastructure management**.
 
 I have successfully led organizations through full-scale system implementations, network modernization, and security overhauls—delivering measurable improvements in **efficiency, security, and ROI**. I have consistently managed cross-functional teams and implemented innovative solutions across various industries.
 
